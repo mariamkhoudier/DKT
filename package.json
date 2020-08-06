@@ -1,0 +1,19 @@
+{
+  "name": "dkt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamkhoudier/DKT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariamkhoudier/DKT/issues"
+  },
+  "homepage": "https://github.com/mariamkhoudier/DKT#readme"
+}

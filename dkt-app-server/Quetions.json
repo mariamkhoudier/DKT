@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "QuestionText": "What will happen if you are caught cheating on the knowledge test?",
+        "Options": [
+            {
+                "text": "You will never be allowed to take another test.",
+                "id": "a"
+            },
+            {
+                "text": "Nothing, there is no penalty.",
+                "id": "b"
+            },
+            {
+                "text": "You will not be allowed to take another test for 6 weeks.",
+                "id": "c"
+            }
+        ],
+        "correctAnswer": "c"
+    },
+    {
+        "id": 2,
+        "QuestionText": "Are you required to carry your driver's licence with you every time you drive?",
+        "Options": [
+            {
+                "text": "Yes.",
+                "id": "a"
+            },
+            {
+                "text": "No, it is only needed on long trips.",
+                "id": "b"
+            },
+            {
+                "text": "No, being licensed is enough.",
+                "id": "c"
+            }
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "id": 3,
+        "QuestionText": "You are driving on a freeway and realise you forgot something at home. You want to go back for it. Can you do a U-turn on this road?",
+        "Options": [
+            {
+                "text": "No, not at any time.",
+                "id": "a"
+            },
+            {
+                "text": "Yes, any time.",
+                "id": "b"
+            },
+            {
+                "text": "Yes, providing you use the gravel joining roads.",
+                "id": "c"
+            }
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "id": 4,
+        "QuestionText": "Where there is parallel kerbside parking, are you allowed to double-park alongside a parked vehicle?",
+        "Options": [
+            {
+                "text": "Yes, if delivering goods.",
+                "id": "a"
+            },
+            {
+                "text": "No, not at any time.",
+                "id": "b"
+            },
+            {
+                "text": "Yes, if not obstructing traffic.",
+                "id": "c"
+            }
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "id": 5,
+        "QuestionText": "When displaying L or P plates, how much of the letter must be clearly visible?",
+        "Options": [
+            {
+                "text": "All of the letter L or P.",
+                "id": "a"
+            },
+            {
+                "text": "Only enough of the letter so it is clear whether it is an L or P.",
+                "id": "b"
+            },
+            {
+                "text": "Most of the letter.",
+                "id": "c"
+            }
+        ],
+        "correctAnswer": "a"
+    }
+]
